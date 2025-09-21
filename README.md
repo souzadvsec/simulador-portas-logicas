@@ -11,23 +11,26 @@ Neste experimento, vou desenvolver um projeto de simulação de circuito digital
 
 Ao final, espero ser capaz de:
 
-Reforçar meus conceitos sobre portas lógicas digitais
+- Reforçar meus conceitos sobre portas lógicas digitais
 
-Desenvolver a tabela-verdade de algumas portas lógicas na prática
+- Desenvolver a tabela-verdade de algumas portas lógicas na prática
 
-Utilizar um software simulador de circuitos lógicos
+- Utilizar um software simulador de circuitos lógicos
 
-Analisar o funcionamento de um circuito digital simples
+- Analisar o funcionamento de um circuito digital simples
 
 Onde Utilizo Esses Conceitos?
+
 Atualmente, sei que a maioria dos equipamentos eletrônicos é composta por circuitos integrados digitais. Desde os mais simples, como eletrodomésticos, até os mais complexos, como robôs em linhas de montagem de automóveis — todos operam com os mesmos princípios lógicos digitais.
 
 Por isso, para desenvolver e manter esses sistemas, reconheço que é fundamental conhecer a aplicação e o funcionamento das portas lógicas.
 
-O Experimento
+O Experimento:
+
 Para realizar este experimento, vou utilizar recursos de hardware e software. Com meu computador e um sistema de desenho assistido por computador (CAD), farei a simulação de circuitos integrados. Assim, poderei desenvolver estruturas de circuitos lógicos aplicando meu conhecimento sobre as portas AND, NOT, NAND e NOR.
 
 Cenário
+
 Ao trabalhar no desenvolvimento de equipamentos para sistemas digitais de automação, como os controladores lógicos programáveis (CLPs), preciso criar a lógica que gere as saídas desejadas a partir dos sinais de entrada.
 
 Nesse contexto, é essencial que eu compreenda o funcionamento das portas lógicas AND, OR, NOT, NAND e NOR para programar corretamente esses equipamentos.
